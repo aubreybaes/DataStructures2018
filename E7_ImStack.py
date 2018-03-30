@@ -8,7 +8,7 @@
 class ImStack:
     def __init__(self):
         print "LIST MANIPULATION USING STACK"
-        self.items = input("\nEnter a list:")
+        self.items = input("\nEnter a list of strings:")
         self.items = list(self.items)
 
     def sort(self):

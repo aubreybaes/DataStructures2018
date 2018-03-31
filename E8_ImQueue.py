@@ -44,7 +44,7 @@ if __name__ =="__main__":
                 x+=1
             print "\t",sorted(s.items)
             print "\t",a, "to", b, "contains", len(s.items), "even numbers"
-        elif a%2==1and b%2==1:
+        elif a%2==1 and b%2==1:
             while x<=k+1:
                 s.dequeue()
                 s.enqueue(s.peek())
@@ -70,7 +70,7 @@ if __name__ =="__main__":
                 x+=1
             print "\t",sorted(s.items)
             print "\t",a, "to", b, "contains", len(s.items), "even numbers"
-        elif a%2==1and b%2==1:
+        elif a%2==1 and b%2==1:
             while x<=k:
                 s.enqueue(s.peek())
                 s.dequeue()

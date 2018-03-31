@@ -1,4 +1,4 @@
-# EXERCISE NO. 9 -  BINARY TREE
+# EXERCISE NO. 10 -  SORTING AND SEARCHING ALGORITHM
 # Mae Aubrey C. Baes
 # github.com/aubreybaes
 # maeaubrey.baes@gmail.com
